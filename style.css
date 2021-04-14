@@ -1,17 +1,5 @@
 /*----id's----*/
 
-#links {
-  font-family: Arial, Helvetica, sans-serif;
-  color:#f4f4f9;
-  font-weight: normal;
-  text-align: center;
-}
-
-#list-font {
-  color:#1b2d2a;
-  font-family: Arial, Helvetica, sans-serif
-}
-
 #copyright {
   font-family: courier, monospace;
   text-align: center;
@@ -24,6 +12,17 @@
   font-family: courier, monospace
 }
 /*----classes----*/
+.list-font {
+  color:#1b2d2a;
+  font-family: Arial, Helvetica, sans-serif
+}
+
+.links {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: normal;
+  text-align: center;
+}
+
 .light-bg {
   color: #f4f4f9;
   background-color: #aaa95a;
@@ -88,8 +87,8 @@ a:visited {
 nav a:hover {
   color: #ceff1a;
 }
-.electric-lime: #ceff1aff;
+/*----.electric-lime: #ceff1aff;
 .olive-green: #aaa95aff;
 .ghost-white: #f4f4f9ff;
 .blue-green-color-wheel: #0d5d56ff;
-.dark-jungle-green: #1b2d2aff;
+.dark-jungle-green: #1b2d2aff;----*/
